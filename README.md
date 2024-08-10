@@ -1,7 +1,7 @@
 # learning-log
 > Inspired by https://github.com/amitness/learning 
 
-Running list of courses and books and any other material of interest that I am currently studying
+Running list of courses and books and any other material of interest that I am currently studying or planning to. This acts as my evergrowing list of to-learns.
 
 ### Large Language Models
 
